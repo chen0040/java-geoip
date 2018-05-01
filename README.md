@@ -4,7 +4,15 @@ A simple library for converting ip address to country
 
 # Install
 
+Add the following dependency to your POM file:
 
+```xml
+<dependency>
+  <groupId>com.github.chen0040</groupId>
+  <artifactId>java-geoip</artifactId>
+  <version>1.0.1</version>
+</dependency>
+```
 
 # Usage
 
